@@ -25,8 +25,10 @@ I used data from my own Strava page to get the data from my runs. Strava is an a
 
 - **Fastest routes**: Determined by the fastest average pace during a run.
   ![Fastest Route Graph](graphs/Fastest.png)  
-- **Hardest routes**: Determined by the highest elevation gain.  
-- **Most consistent routes**: Determined by the lowest standard deviation of speed.  
+- **Hardest routes**: Determined by the highest elevation gain.
+  ![Hardest Route Graph](graphs/Hardest.png)   
+- **Most consistent routes**: Determined by the lowest standard deviation of speed.
+  ![Consistent Route Graph](graphs/consistent.png)   
 
 ## Discussion
 
