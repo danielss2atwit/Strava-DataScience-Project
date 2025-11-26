@@ -32,4 +32,4 @@ I used data from my own Strava page to get the data from my runs. Strava is an a
 
 ## Discussion
 
-AAA
+This research was helpful to me, because now I can look at the routes I run and see how they are affecting my training. I can look at the routes on my hardest graph, and it can explain why I may feel more tired the next day after one of those runs. This research could lead into further discovery of what parts of the route, such as terrain or elevation, could make it have a typically fast pace. This could help discover a runner's strengths and weaknesses and make training decisions, such as knowing which hard routes to avoid before big performances.  
