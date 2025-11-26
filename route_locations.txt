@@ -1,0 +1,1515 @@
+======================================================================
+ROUTE CLUSTERS - GENERAL LOCATIONS
+======================================================================
+
+Route   0 → Longwood Medical and Academic Area, Boston (42.3420, -71.1067)
+Route   1 → Saint Stephen Street, Fenway (42.3431, -71.0860)
+Route   2 → 360, Huntington Avenue (42.3376, -71.0888)
+Route   3 → 4, Jersey Street (42.3465, -71.0982)
+Route   4 → Longwood Medical and Academic Area, Boston (42.3411, -71.1044)
+Route   5 → Rockdale Avenue, New Bedford (41.6128, -70.9309)
+Route   6 → Elm Street, Apponagansett (41.6002, -70.9577)
+Route   7 → Hawthorn Street, New Bedford (41.6277, -70.9502)
+Route   8 → 427, Washington Street (42.3349, -71.1237)
+Route   9 → Longwood Medical and Academic Area, Boston (42.3386, -71.1043)
+Route  10 → Jamaica Plain, Boston (42.3285, -71.1133)
+Route  11 → 135, Clarendon Street (42.3490, -71.0734)
+Route  12 → Longwood Medical and Academic Area, Boston (42.3431, -71.1041)
+Route  13 → Mission Hill, Boston (42.3337, -71.0937)
+Route  14 → Boston, Suffolk County (42.3457, -71.0904)
+Route  15 → Welland Road, Aspinwall Hill (42.3361, -71.1279)
+Route  16 → Northampton Street, South End (42.3399, -71.0817)
+Route  17 → 157, Berkeley Street (42.3494, -71.0713)
+Route  18 → Jonathan Street, New Bedford (41.6309, -70.9473)
+Route  19 → Arnold Street, Redgate Corner (41.6068, -70.9448)
+Route  20 → Hawthorn Street, New Bedford (41.6283, -70.9492)
+Route  21 → West Sherman Street, Apponagansett (41.6065, -70.9639)
+Route  22 → Hawthorn Street, New Bedford (41.6292, -70.9367)
+Route  23 → Plymouth Street, New Bedford (41.6270, -70.9502)
+Route  24 → New Bedford, Bristol County (41.6078, -70.9239)
+Route  25 → Rockdale Avenue, New Bedford (41.6136, -70.9334)
+Route  26 → Hawthorn Street, New Bedford (41.6276, -70.9519)
+Route  27 → 101, Page Street (41.6276, -70.9395)
+Route  28 → McGreevey Way, Mission Main (42.3342, -71.0966)
+Route  29 → Cumberland Street, Back Bay (42.3434, -71.0817)
+Route  30 → North Brookline, Brookline (42.3395, -71.1109)
+Route  31 → Boston, Suffolk County (42.3458, -71.0835)
+Route  32 → Taylor Street, The Chemistry (42.3692, -71.2325)
+Route  33 → Jamaica Plain, Boston (42.3281, -71.1128)
+Route  34 → Annunciation Road, Mission Hill (42.3348, -71.0944)
+Route  35 → Fenway, Boston (42.3468, -71.0968)
+Route  36 → Longwood Medical and Academic Area, Boston (42.3437, -71.1052)
+Route  37 → Bowker Street, Brookline Village (42.3350, -71.1154)
+Route  38 → Massachusetts Turnpike, Back Bay (42.3475, -71.0823)
+Route  39 → McGreevey Way, Mission Main (42.3346, -71.0971)
+Route  40 → McGreevey Way, Mission Main (42.3344, -71.0962)
+Route  41 → Longwood Medical and Academic Area, Boston (42.3429, -71.1072)
+Route  42 → Huntington Avenue, Back Bay (42.3465, -71.0821)
+Route  43 → 360, Huntington Avenue (42.3386, -71.0916)
+Route  44 → 255, Maine Street (43.9035, -69.9572)
+Route  45 → McGreevey Way, Mission Main (42.3348, -71.0976)
+Route  46 → Back Bay, Boston (42.3455, -71.0831)
+Route  47 → East Milton Road, Brookline (42.3294, -71.1258)
+Route  48 → Arthur Avenue, Dartmouth (41.6231, -70.9646)
+Route  49 → Whittier Street, New Bedford (41.6278, -70.9493)
+Route  50 → New Bedford, Bristol County (41.6206, -70.9406)
+Route  51 → Arnold Street, Redgate Corner (41.6060, -70.9419)
+Route  52 → West Sherman Street, Apponagansett (41.6080, -70.9613)
+Route  53 → New Bedford, Bristol County (41.6304, -70.9504)
+Route  54 → Russells Mills Road, Redgate Corner (41.6054, -70.9475)
+Route  55 → Leverett Street, Brookline Village (42.3302, -71.1229)
+Route  56 → Longwood Medical and Academic Area, Boston (42.3400, -71.1093)
+Route  57 → 360, Huntington Avenue (42.3393, -71.0865)
+Route  58 → Boylston Street, Fenway (42.3460, -71.0944)
+Route  59 → Walnut Street, Pill Hill (42.3297, -71.1235)
+Route  60 → 39, Dalton Street (42.3468, -71.0835)
+Route  61 → Longwood Medical and Academic Area, Boston (42.3405, -71.1071)
+Route  62 → Fenway, Boston (42.3522, -71.0935)
+Route  63 → Back Bay, Boston (42.3451, -71.0837)
+Route  64 → Fenway, Boston (42.3431, -71.1034)
+Route  65 → Mission Hill, Boston (42.3303, -71.1105)
+Route  66 → 75, Brookline Avenue (42.3475, -71.0987)
+Route  67 → Roxbury Crossing, Roxbury (42.3335, -71.0922)
+Route  68 → Fenway, Boston (42.3524, -71.0937)
+Route  69 → Clearway Street, Back Bay (42.3452, -71.0850)
+Route  70 → 10, Charlesgate East (42.3498, -71.0919)
+Route  71 → Boston, Suffolk County (42.3427, -71.1028)
+Route  72 → Longwood Medical and Academic Area, Boston (42.3418, -71.1083)
+Route  73 → Fenway, Boston (42.3515, -71.0929)
+Route  74 → 225, Massachusetts Avenue (42.3444, -71.0866)
+Route  75 → Lamartine Street, Jamaica Plain (42.3221, -71.1011)
+Route  76 → Prentiss Street, Mission Hill (42.3337, -71.0936)
+Route  77 → Longwood Medical and Academic Area, Boston (42.3365, -71.1109)
+Route  78 → Longwood Medical and Academic Area, Boston (42.3426, -71.1059)
+Route  79 → Roxbury Crossing, Roxbury (42.3332, -71.0911)
+Route  80 → Wordell Street, Dartmouth (41.6153, -70.9485)
+Route  81 → Carroll Street, New Bedford (41.6262, -70.9520)
+Route  82 → Potter Street, Redgate Corner (41.6115, -70.9471)
+Route  83 → Palmer Street, New Bedford (41.6314, -70.9458)
+Route  84 → Dartmouth, Bristol County (41.6273, -70.9566)
+Route  85 → Rebecca Road, Wilburite Corner (41.5889, -70.9829)
+Route  86 → Dartmouth, Bristol County (41.6269, -70.9561)
+Route  87 → Sable Avenue, Dartmouth (41.6252, -70.9660)
+Route  88 → 645, Beacon Street (42.3486, -71.0979)
+Route  89 → New Bedford, Bristol County (41.6138, -70.9327)
+Route  90 → Schooner Drive, Redgate Corner (41.6123, -70.9511)
+Route  91 → Bakerville Road, Cranberry Bog Corner (41.5839, -70.9784)
+Route  92 → Babbitt Street, New Bedford (41.6211, -70.9391)
+Route  93 → Bristol County, Massachusetts (41.5799, -70.9782)
+Route  94 → Potter Street, Redgate Corner (41.6120, -70.9460)
+Route  95 → Newton Street, South Dartmouth (41.5972, -70.9457)
+Route  96 → Milton Street, Apponagansett (41.6140, -70.9509)
+Route  97 → 555, Bakerville Road (41.5922, -70.9796)
+Route  98 → Hawthorn Street, New Bedford (41.6285, -70.9463)
+Route  99 → Rebecca Road, Wilburite Corner (41.5894, -70.9824)
+Route 100 → Allen Street, Dartmouth (41.6234, -70.9564)
+Route 101 → New Bedford, Bristol County (41.6224, -70.9507)
+Route 102 → Babbitt Street, New Bedford (41.6209, -70.9395)
+Route 103 → Elm Street, Apponagansett (41.5995, -70.9595)
+Route 104 → Victoria Street, Dartmouth (41.6211, -70.9546)
+Route 105 → 5, Russells Mills Road (41.6092, -70.9406)
+Route 106 → Brook Street, Redgate Corner (41.6084, -70.9500)
+Route 107 → Walters Way, Dartmouth (41.6191, -70.9531)
+Route 108 → Rockdale Avenue, New Bedford (41.6249, -70.9470)
+Route 109 → Alpha Street, Dartmouth (41.6202, -70.9555)
+Route 110 → Howland Street, Redgate Corner (41.5998, -70.9432)
+Route 111 → Bakerville Road, Wilburite Corner (41.5886, -70.9798)
+Route 112 → Dartmouth, Bristol County (41.6131, -70.9433)
+Route 113 → Bristol County, Massachusetts (41.6238, -70.9556)
+Route 114 → Stoneybrook Lane, Apponagansett (41.6007, -70.9594)
+Route 115 → Westwood Drive, Dartmouth (41.6186, -70.9561)
+Route 116 → Bristol County, Massachusetts (41.6262, -70.9554)
+Route 117 → New Bedford, Bristol County (41.5945, -70.9066)
+Route 118 → Raymond Street, Redgate Corner (41.6016, -70.9532)
+Route 119 → Dartmouth, Bristol County (41.6204, -70.9544)
+Route 120 → New Bedford, Bristol County (41.6073, -70.9252)
+Route 121 → New Bedford, Bristol County (41.6298, -70.9498)
+Route 122 → Spyglass Lane, Apponagansett (41.6073, -70.9546)
+Route 123 → Fairhaven, Bristol County (41.6414, -70.9039)
+Route 124 → Oaklawn Drive, Dartmouth (41.6234, -70.9595)
+Route 125 → Arnold Street, Redgate Corner (41.6105, -70.9510)
+Route 126 → Arch Street, Redgate Corner (41.6022, -70.9423)
+Route 127 → Carreiro Lane, Apponagansett (41.6074, -70.9635)
+Route 128 → Victoria Street, Dartmouth (41.6223, -70.9542)
+Route 129 → Fairhaven, Bristol County (41.6412, -70.9047)
+Route 130 → New Bedford, Bristol County (41.6294, -70.9500)
+Route 131 → West McCabe Street, Dartmouth (41.6151, -70.9561)
+Route 132 → New Bedford, Bristol County (41.6293, -70.9500)
+Route 133 → Elm Street, Apponagansett (41.6004, -70.9605)
+Route 134 → Carroll Street, New Bedford (41.6270, -70.9496)
+Route 135 → Dartmouth Street, Redgate Corner (41.6019, -70.9408)
+Route 136 → Fairhaven, Bristol County (41.6403, -70.9034)
+Route 137 → Brook Street, Redgate Corner (41.6072, -70.9482)
+Route 138 → New Bedford, Bristol County (41.6294, -70.9502)
+Route 139 → Dartmouth, Bristol County (41.6029, -70.9227)
+Route 140 → Faith Street, Bliss Corner (41.6159, -70.9405)
+Route 141 → Fairhaven, Bristol County (41.6414, -70.9031)
+Route 142 → Plymouth Street, New Bedford (41.6273, -70.9493)
+Route 143 → Hawthorn Street, New Bedford (41.6280, -70.9489)
+Route 144 → Stowell Street, New Bedford (41.6210, -70.9405)
+Route 145 → Dartmouth, Bristol County (41.6220, -70.9529)
+Route 146 → Rogers Street, Redgate Corner (41.6112, -70.9492)
+Route 147 → Bristol County, Massachusetts (41.6265, -70.9568)
+Route 148 → Hawthorn Street, New Bedford (41.6280, -70.9490)
+Route 149 → Allen Street, Dartmouth (41.6216, -70.9584)
+Route 150 → Dartmouth Street, Redgate Corner (41.6045, -70.9411)
+Route 151 → Fairhaven, Bristol County (41.6414, -70.9042)
+Route 152 → West Rodney French Boulevard, New Bedford (41.6071, -70.9195)
+Route 153 → Rogers Street, Redgate Corner (41.6089, -70.9456)
+Route 154 → Dartmouth, Bristol County (41.6208, -70.9530)
+Route 155 → William Saltzman Way, New Bedford (41.6294, -70.9506)
+Route 156 → Bolton Street, New Bedford (41.6133, -70.9333)
+Route 157 → New Bedford, Bristol County (41.6118, -70.9238)
+Route 158 → 4, Jersey Street (42.3470, -71.0975)
+Route 159 → Leverett Street, Brookline Village (42.3302, -71.1227)
+Route 160 → Saint Botolph Street, Fenway (42.3420, -71.0844)
+Route 161 → 161, South Huntington Avenue (42.3273, -71.1121)
+Route 162 → West Newton Street, Back Bay (42.3452, -71.0816)
+Route 163 → Berwick Road, Attleboro (41.9465, -71.2966)
+Route 164 → Attleboro, Bristol County (41.9426, -71.2986)
+Route 165 → Longwood Medical and Academic Area, Boston (42.3417, -71.1081)
+Route 166 → Fenway, Boston (42.3416, -71.0996)
+Route 167 → 75, Brookline Avenue (42.3479, -71.0983)
+Route 168 → Leverett Street, Brookline Village (42.3301, -71.1231)
+Route 169 → Longwood Medical and Academic Area, Boston (42.3421, -71.1049)
+Route 170 → Rawson Road, Aspinwall Hill (42.3360, -71.1309)
+Route 171 → 101, Belvidere Street (42.3458, -71.0833)
+Route 172 → Jamaicaway Bikepath, Jamaica Plain (42.3272, -71.1139)
+Route 173 → North Brookline, Brookline (42.3368, -71.1211)
+Route 174 → Walnut Park, Roxbury (42.3154, -71.0961)
+Route 175 → West Rutland Square, South End (42.3431, -71.0800)
+Route 176 → Carlton Street, North Brookline (42.3438, -71.1077)
+Route 177 → Wenham, Essex County (42.5907, -70.8147)
+Route 178 → Wenham, Essex County (42.5908, -70.8153)
+Route 179 → Gardner Road, Aspinwall Hill (42.3366, -71.1276)
+Route 180 → Milton Road, Brookline (42.3294, -71.1264)
+Route 181 → Fenway, Boston (42.3503, -71.0941)
+Route 182 → West Newton Street, Back Bay (42.3445, -71.0803)
+Route 183 → Aspinwall Hill, North Brookline (42.3359, -71.1340)
+Route 184 → Fenway, Boston (42.3516, -71.0939)
+Route 185 → East Milton Road, Brookline (42.3296, -71.1255)
+Route 186 → Beacon Street, Fenway (42.3509, -71.0924)
+Route 187 → Harvard Avenue, North Brookline (42.3360, -71.1238)
+Route 188 → Westminster Avenue, Roxbury (42.3168, -71.0963)
+Route 189 → Mountfort Street, Audubon Circle (42.3485, -71.1064)
+Route 190 → Colbourne Crescent, Aspinwall Hill (42.3351, -71.1337)
+Route 191 → Longwood Medical and Academic Area, Boston (42.3421, -71.1047)
+Route 192 → Boylston Street, Brookline Village (42.3296, -71.1251)
+Route 193 → Paul Gore Street, Jamaica Plain (42.3197, -71.1092)
+Route 194 → Back Bay, Boston (42.3453, -71.0837)
+Route 195 → Massachusetts Turnpike, Back Bay (42.3475, -71.0806)
+Route 196 → Keene, Cheshire County (42.9165, -72.2837)
+Route 197 → 438;440, Centre Street (42.3196, -71.1111)
+Route 198 → Milton Road, Brookline (42.3294, -71.1269)
+Route 199 → Fenway, Boston (42.3515, -71.0916)
+Route 200 → Walnut Park, Roxbury (42.3148, -71.0958)
+Route 201 → Longwood Medical and Academic Area, Boston (42.3394, -71.1097)
+Route 202 → Addington Road, Aspinwall Hill (42.3358, -71.1333)
+Route 203 → Yale Avenue Historic District, Wakefield (42.5095, -71.0776)
+Route 204 → East Milton Road, Brookline (42.3296, -71.1254)
+Route 205 → Back Bay, Boston (42.3450, -71.0838)
+Route 206 → Brookline, Norfolk County (42.3284, -71.1138)
+Route 207 → 100, Huntington Avenue (42.3477, -71.0764)
+Route 208 → Longwood Medical and Academic Area, Boston (42.3407, -71.1071)
+Route 209 → Keddy Street, Springfield (42.1088, -72.5130)
+Route 210 → Rawson Road, Aspinwall Hill (42.3351, -71.1357)
+Route 211 → Boylston Street, Brookline Village (42.3300, -71.1238)
+Route 212 → New East Side, Loop (41.8867, -87.6209)
+Route 213 → Loop, Chicago (41.8798, -87.6173)
+Route 214 → Westminster Avenue, Roxbury (42.3166, -71.0961)
+Route 215 → North Brookline, Brookline (42.3357, -71.1231)
+Route 216 → Massachusetts Turnpike, Back Bay (42.3466, -71.0819)
+Route 217 → Paul Gore Street, Jamaica Plain (42.3202, -71.1092)
+Route 218 → 102, Belvidere Street (42.3458, -71.0824)
+Route 219 → Fenway, Boston (42.3511, -71.0922)
+Route 220 → Longwood Medical and Academic Area, Boston (42.3370, -71.1018)
+Route 221 → Contoocook, Hopkinton (43.2349, -71.7260)
+Route 222 → Harvard Avenue, North Brookline (42.3360, -71.1226)
+Route 223 → Huntington Avenue, Back Bay (42.3470, -71.0809)
+Route 224 → Fenway, Boston (42.3520, -71.1083)
+Route 225 → Jamaica Plain, Boston (42.3283, -71.1136)
+Route 226 → Beacon Street, Fenway (42.3513, -71.1062)
+Route 227 → Bakerville Road, Wilburite Corner (41.5897, -70.9785)
+Route 228 → Victoria Street, Dartmouth (41.6214, -70.9544)
+Route 229 → Holland Street, Dartmouth (41.6141, -70.9507)
+Route 230 → Mission Hill, Boston (42.3332, -71.0946)
+Route 231 → North Brookline, Brookline (42.3360, -71.1221)
+Route 232 → Huntington Avenue, Back Bay (42.3463, -71.0826)
+Route 233 → Life Street, Boston Landing (42.3561, -71.1459)
+Route 234 → Rogers Street, Redgate Corner (41.6117, -70.9499)
+Route 235 → Tremont Street, Redgate Corner (41.6008, -70.9424)
+Route 236 → Russells Mills Road, Redgate Corner (41.6041, -70.9456)
+Route 237 → Farm Street, New Bedford (41.6254, -70.9478)
+Route 238 → New Bedford, Bristol County (41.6318, -70.9518)
+Route 239 → New Bedford, Bristol County (41.6302, -70.9502)
+Route 240 → Elm Street, Apponagansett (41.6008, -70.9602)
+Route 241 → Osborne Street, New Bedford (41.6122, -70.9326)
+Route 242 → Stackhouse Street, Bliss Corner (41.6141, -70.9401)
+Route 243 → Bakerville Road, Wilburite Corner (41.5897, -70.9784)
+Route 244 → Bakerville Road, Cranberry Bog Corner (41.5805, -70.9768)
+Route 245 → Farmers Circle, Dartmouth (41.6035, -70.9787)
+Route 246 → Simmons Way, Dartmouth (41.5868, -70.9767)
+Route 247 → Russells Mills Road, Macomber Corner (41.5994, -70.9718)
+Route 248 → Gulf Road West, Wilburite Corner (41.5853, -70.9786)
+Route 249 → Vineyard Lane, Dartmouth (41.5848, -70.9726)
+Route 250 → Russells Mills Road, Macomber Corner (41.5997, -70.9646)
+
+======================================================================
+CLUSTER IDS AND COORDINATES
+======================================================================
+
+Route 0: Longwood Medical and Academic Area, Boston
+  Latitude: 42.342037
+  Longitude: -71.106685
+  Maps: https://maps.google.com/?q=42.34203651334817,-71.10668479922136
+
+Route 1: Saint Stephen Street, Fenway
+  Latitude: 42.343115
+  Longitude: -71.086029
+  Maps: https://maps.google.com/?q=42.34311501813187,-71.08602852747252
+
+Route 2: 360, Huntington Avenue
+  Latitude: 42.337590
+  Longitude: -71.088756
+  Maps: https://maps.google.com/?q=42.33759043823365,-71.08875557685857
+
+Route 3: 4, Jersey Street
+  Latitude: 42.346489
+  Longitude: -71.098240
+  Maps: https://maps.google.com/?q=42.34648886986435,-71.09823997817966
+
+Route 4: Longwood Medical and Academic Area, Boston
+  Latitude: 42.341077
+  Longitude: -71.104386
+  Maps: https://maps.google.com/?q=42.341076966633295,-71.10438631865198
+
+Route 5: Rockdale Avenue, New Bedford
+  Latitude: 41.612843
+  Longitude: -70.930869
+  Maps: https://maps.google.com/?q=41.61284329243421,-70.93086879144737
+
+Route 6: Elm Street, Apponagansett
+  Latitude: 41.600159
+  Longitude: -70.957700
+  Maps: https://maps.google.com/?q=41.60015943161565,-70.95769959143743
+
+Route 7: Hawthorn Street, New Bedford
+  Latitude: 41.627696
+  Longitude: -70.950232
+  Maps: https://maps.google.com/?q=41.627696377661884,-70.95023196870926
+
+Route 8: 427, Washington Street
+  Latitude: 42.334900
+  Longitude: -71.123738
+  Maps: https://maps.google.com/?q=42.33489972813488,-71.12373795653319
+
+Route 9: Longwood Medical and Academic Area, Boston
+  Latitude: 42.338563
+  Longitude: -71.104252
+  Maps: https://maps.google.com/?q=42.33856282168675,-71.1042516
+
+Route 10: Jamaica Plain, Boston
+  Latitude: 42.328525
+  Longitude: -71.113289
+  Maps: https://maps.google.com/?q=42.328524822356094,-71.1132886515841
+
+Route 11: 135, Clarendon Street
+  Latitude: 42.349028
+  Longitude: -71.073354
+  Maps: https://maps.google.com/?q=42.349027890082766,-71.07335393291709
+
+Route 12: Longwood Medical and Academic Area, Boston
+  Latitude: 42.343069
+  Longitude: -71.104072
+  Maps: https://maps.google.com/?q=42.34306938752933,-71.10407169493799
+
+Route 13: Mission Hill, Boston
+  Latitude: 42.333699
+  Longitude: -71.093672
+  Maps: https://maps.google.com/?q=42.33369867256637,-71.09367249970502
+
+Route 14: Boston, Suffolk County
+  Latitude: 42.345702
+  Longitude: -71.090398
+  Maps: https://maps.google.com/?q=42.345702330415754,-71.09039763402626
+
+Route 15: Welland Road, Aspinwall Hill
+  Latitude: 42.336098
+  Longitude: -71.127922
+  Maps: https://maps.google.com/?q=42.33609773480759,-71.1279216409542
+
+Route 16: Northampton Street, South End
+  Latitude: 42.339858
+  Longitude: -71.081687
+  Maps: https://maps.google.com/?q=42.33985788306829,-71.08168662394762
+
+Route 17: 157, Berkeley Street
+  Latitude: 42.349415
+  Longitude: -71.071313
+  Maps: https://maps.google.com/?q=42.349415408795956,-71.07131338716655
+
+Route 18: Jonathan Street, New Bedford
+  Latitude: 41.630889
+  Longitude: -70.947286
+  Maps: https://maps.google.com/?q=41.63088931061806,-70.94728590861068
+
+Route 19: Arnold Street, Redgate Corner
+  Latitude: 41.606806
+  Longitude: -70.944785
+  Maps: https://maps.google.com/?q=41.60680610659187,-70.94478509326788
+
+Route 20: Hawthorn Street, New Bedford
+  Latitude: 41.628302
+  Longitude: -70.949196
+  Maps: https://maps.google.com/?q=41.62830208782743,-70.94919618489985
+
+Route 21: West Sherman Street, Apponagansett
+  Latitude: 41.606477
+  Longitude: -70.963944
+  Maps: https://maps.google.com/?q=41.60647709050707,-70.96394416273586
+
+Route 22: Hawthorn Street, New Bedford
+  Latitude: 41.629202
+  Longitude: -70.936706
+  Maps: https://maps.google.com/?q=41.62920218562565,-70.93670568821096
+
+Route 23: Plymouth Street, New Bedford
+  Latitude: 41.627031
+  Longitude: -70.950154
+  Maps: https://maps.google.com/?q=41.627030530765616,-70.95015410004696
+
+Route 24: New Bedford, Bristol County
+  Latitude: 41.607847
+  Longitude: -70.923900
+  Maps: https://maps.google.com/?q=41.607847383820484,-70.92390005875406
+
+Route 25: Rockdale Avenue, New Bedford
+  Latitude: 41.613638
+  Longitude: -70.933430
+  Maps: https://maps.google.com/?q=41.61363835813953,-70.93343
+
+Route 26: Hawthorn Street, New Bedford
+  Latitude: 41.627554
+  Longitude: -70.951945
+  Maps: https://maps.google.com/?q=41.62755377737093,-70.95194454668619
+
+Route 27: 101, Page Street
+  Latitude: 41.627615
+  Longitude: -70.939463
+  Maps: https://maps.google.com/?q=41.627615127564674,-70.93946344736842
+
+Route 28: McGreevey Way, Mission Main
+  Latitude: 42.334216
+  Longitude: -71.096566
+  Maps: https://maps.google.com/?q=42.33421623039824,-71.09656572343944
+
+Route 29: Cumberland Street, Back Bay
+  Latitude: 42.343380
+  Longitude: -71.081675
+  Maps: https://maps.google.com/?q=42.343380108906324,-71.08167508444853
+
+Route 30: North Brookline, Brookline
+  Latitude: 42.339472
+  Longitude: -71.110887
+  Maps: https://maps.google.com/?q=42.339471914893615,-71.11088677756285
+
+Route 31: Boston, Suffolk County
+  Latitude: 42.345788
+  Longitude: -71.083527
+  Maps: https://maps.google.com/?q=42.34578844616105,-71.0835268937266
+
+Route 32: Taylor Street, The Chemistry
+  Latitude: 42.369225
+  Longitude: -71.232477
+  Maps: https://maps.google.com/?q=42.36922499009233,-71.23247703850484
+
+Route 33: Jamaica Plain, Boston
+  Latitude: 42.328089
+  Longitude: -71.112751
+  Maps: https://maps.google.com/?q=42.32808928972431,-71.112750760401
+
+Route 34: Annunciation Road, Mission Hill
+  Latitude: 42.334765
+  Longitude: -71.094435
+  Maps: https://maps.google.com/?q=42.33476526142132,-71.0944354390863
+
+Route 35: Fenway, Boston
+  Latitude: 42.346754
+  Longitude: -71.096805
+  Maps: https://maps.google.com/?q=42.34675440686274,-71.09680509733893
+
+Route 36: Longwood Medical and Academic Area, Boston
+  Latitude: 42.343678
+  Longitude: -71.105219
+  Maps: https://maps.google.com/?q=42.343677792746746,-71.10521871705002
+
+Route 37: Bowker Street, Brookline Village
+  Latitude: 42.334991
+  Longitude: -71.115414
+  Maps: https://maps.google.com/?q=42.33499113823683,-71.11541425699878
+
+Route 38: Massachusetts Turnpike, Back Bay
+  Latitude: 42.347498
+  Longitude: -71.082280
+  Maps: https://maps.google.com/?q=42.3474976838734,-71.08228045516204
+
+Route 39: McGreevey Way, Mission Main
+  Latitude: 42.334634
+  Longitude: -71.097079
+  Maps: https://maps.google.com/?q=42.33463362211221,-71.0970794389439
+
+Route 40: McGreevey Way, Mission Main
+  Latitude: 42.334441
+  Longitude: -71.096151
+  Maps: https://maps.google.com/?q=42.33444074004874,-71.09615089033306
+
+Route 41: Longwood Medical and Academic Area, Boston
+  Latitude: 42.342932
+  Longitude: -71.107162
+  Maps: https://maps.google.com/?q=42.342931661077415,-71.10716222154834
+
+Route 42: Huntington Avenue, Back Bay
+  Latitude: 42.346463
+  Longitude: -71.082081
+  Maps: https://maps.google.com/?q=42.34646295576091,-71.08208106291781
+
+Route 43: 360, Huntington Avenue
+  Latitude: 42.338608
+  Longitude: -71.091618
+  Maps: https://maps.google.com/?q=42.33860754761904,-71.0916178021978
+
+Route 44: 255, Maine Street
+  Latitude: 43.903461
+  Longitude: -69.957185
+  Maps: https://maps.google.com/?q=43.90346128571429,-69.95718512698413
+
+Route 45: McGreevey Way, Mission Main
+  Latitude: 42.334834
+  Longitude: -71.097637
+  Maps: https://maps.google.com/?q=42.33483365810056,-71.09763712960894
+
+Route 46: Back Bay, Boston
+  Latitude: 42.345460
+  Longitude: -71.083063
+  Maps: https://maps.google.com/?q=42.345459844517954,-71.08306300236295
+
+Route 47: East Milton Road, Brookline
+  Latitude: 42.329385
+  Longitude: -71.125818
+  Maps: https://maps.google.com/?q=42.329385345025706,-71.12581842788025
+
+Route 48: Arthur Avenue, Dartmouth
+  Latitude: 41.623102
+  Longitude: -70.964597
+  Maps: https://maps.google.com/?q=41.62310209131697,-70.96459700501451
+
+Route 49: Whittier Street, New Bedford
+  Latitude: 41.627780
+  Longitude: -70.949308
+  Maps: https://maps.google.com/?q=41.62778012301839,-70.94930800126824
+
+Route 50: New Bedford, Bristol County
+  Latitude: 41.620603
+  Longitude: -70.940639
+  Maps: https://maps.google.com/?q=41.620602580864194,-70.94063904290124
+
+Route 51: Arnold Street, Redgate Corner
+  Latitude: 41.605959
+  Longitude: -70.941902
+  Maps: https://maps.google.com/?q=41.60595911284776,-70.94190218412004
+
+Route 52: West Sherman Street, Apponagansett
+  Latitude: 41.608012
+  Longitude: -70.961303
+  Maps: https://maps.google.com/?q=41.60801200486345,-70.96130316423495
+
+Route 53: New Bedford, Bristol County
+  Latitude: 41.630352
+  Longitude: -70.950429
+  Maps: https://maps.google.com/?q=41.63035155410372,-70.95042880155167
+
+Route 54: Russells Mills Road, Redgate Corner
+  Latitude: 41.605370
+  Longitude: -70.947493
+  Maps: https://maps.google.com/?q=41.605370249425285,-70.94749322844828
+
+Route 55: Leverett Street, Brookline Village
+  Latitude: 42.330172
+  Longitude: -71.122945
+  Maps: https://maps.google.com/?q=42.33017224759101,-71.12294462071735
+
+Route 56: Longwood Medical and Academic Area, Boston
+  Latitude: 42.340041
+  Longitude: -71.109333
+  Maps: https://maps.google.com/?q=42.34004122664835,-71.10933331410257
+
+Route 57: 360, Huntington Avenue
+  Latitude: 42.339309
+  Longitude: -71.086505
+  Maps: https://maps.google.com/?q=42.33930900538876,-71.0865051647421
+
+Route 58: Boylston Street, Fenway
+  Latitude: 42.346029
+  Longitude: -71.094387
+  Maps: https://maps.google.com/?q=42.34602947444633,-71.09438660193072
+
+Route 59: Walnut Street, Pill Hill
+  Latitude: 42.329699
+  Longitude: -71.123494
+  Maps: https://maps.google.com/?q=42.32969887790698,-71.1234939358229
+
+Route 60: 39, Dalton Street
+  Latitude: 42.346785
+  Longitude: -71.083532
+  Maps: https://maps.google.com/?q=42.346784836512256,-71.08353247865577
+
+Route 61: Longwood Medical and Academic Area, Boston
+  Latitude: 42.340530
+  Longitude: -71.107136
+  Maps: https://maps.google.com/?q=42.34053004713019,-71.10713597013533
+
+Route 62: Fenway, Boston
+  Latitude: 42.352212
+  Longitude: -71.093502
+  Maps: https://maps.google.com/?q=42.35221224294955,-71.09350199404915
+
+Route 63: Back Bay, Boston
+  Latitude: 42.345097
+  Longitude: -71.083683
+  Maps: https://maps.google.com/?q=42.34509670122227,-71.08368319239474
+
+Route 64: Fenway, Boston
+  Latitude: 42.343067
+  Longitude: -71.103437
+  Maps: https://maps.google.com/?q=42.343067315604905,-71.10343746931619
+
+Route 65: Mission Hill, Boston
+  Latitude: 42.330340
+  Longitude: -71.110467
+  Maps: https://maps.google.com/?q=42.33034039471476,-71.11046695176174
+
+Route 66: 75, Brookline Avenue
+  Latitude: 42.347489
+  Longitude: -71.098721
+  Maps: https://maps.google.com/?q=42.34748851105769,-71.09872116586537
+
+Route 67: Roxbury Crossing, Roxbury
+  Latitude: 42.333514
+  Longitude: -71.092208
+  Maps: https://maps.google.com/?q=42.33351384721583,-71.09220760009204
+
+Route 68: Fenway, Boston
+  Latitude: 42.352379
+  Longitude: -71.093682
+  Maps: https://maps.google.com/?q=42.352379343623774,-71.09368247143682
+
+Route 69: Clearway Street, Back Bay
+  Latitude: 42.345208
+  Longitude: -71.085032
+  Maps: https://maps.google.com/?q=42.345207977878104,-71.0850317074492
+
+Route 70: 10, Charlesgate East
+  Latitude: 42.349816
+  Longitude: -71.091867
+  Maps: https://maps.google.com/?q=42.3498164474782,-71.09186665225636
+
+Route 71: Boston, Suffolk County
+  Latitude: 42.342656
+  Longitude: -71.102791
+  Maps: https://maps.google.com/?q=42.342656232699625,-71.10279079695817
+
+Route 72: Longwood Medical and Academic Area, Boston
+  Latitude: 42.341817
+  Longitude: -71.108312
+  Maps: https://maps.google.com/?q=42.34181653786496,-71.10831175
+
+Route 73: Fenway, Boston
+  Latitude: 42.351544
+  Longitude: -71.092851
+  Maps: https://maps.google.com/?q=42.35154390529248,-71.09285097632312
+
+Route 74: 225, Massachusetts Avenue
+  Latitude: 42.344407
+  Longitude: -71.086589
+  Maps: https://maps.google.com/?q=42.34440663076923,-71.08658890813187
+
+Route 75: Lamartine Street, Jamaica Plain
+  Latitude: 42.322052
+  Longitude: -71.101095
+  Maps: https://maps.google.com/?q=42.322051527247964,-71.10109546321526
+
+Route 76: Prentiss Street, Mission Hill
+  Latitude: 42.333721
+  Longitude: -71.093558
+  Maps: https://maps.google.com/?q=42.33372062523307,-71.09355842448727
+
+Route 77: Longwood Medical and Academic Area, Boston
+  Latitude: 42.336498
+  Longitude: -71.110939
+  Maps: https://maps.google.com/?q=42.3364979029563,-71.11093877699228
+
+Route 78: Longwood Medical and Academic Area, Boston
+  Latitude: 42.342632
+  Longitude: -71.105884
+  Maps: https://maps.google.com/?q=42.34263190297416,-71.10588388834715
+
+Route 79: Roxbury Crossing, Roxbury
+  Latitude: 42.333230
+  Longitude: -71.091082
+  Maps: https://maps.google.com/?q=42.33323001396598,-71.09108212247091
+
+Route 80: Wordell Street, Dartmouth
+  Latitude: 41.615252
+  Longitude: -70.948479
+  Maps: https://maps.google.com/?q=41.615252157672856,-70.94847875210793
+
+Route 81: Carroll Street, New Bedford
+  Latitude: 41.626232
+  Longitude: -70.951976
+  Maps: https://maps.google.com/?q=41.626231967112595,-70.95197593979934
+
+Route 82: Potter Street, Redgate Corner
+  Latitude: 41.611466
+  Longitude: -70.947099
+  Maps: https://maps.google.com/?q=41.61146607961079,-70.94709861919506
+
+Route 83: Palmer Street, New Bedford
+  Latitude: 41.631416
+  Longitude: -70.945804
+  Maps: https://maps.google.com/?q=41.63141593298969,-70.94580378276878
+
+Route 84: Dartmouth, Bristol County
+  Latitude: 41.627310
+  Longitude: -70.956572
+  Maps: https://maps.google.com/?q=41.62730985576437,-70.95657183539971
+
+Route 85: Rebecca Road, Wilburite Corner
+  Latitude: 41.588890
+  Longitude: -70.982946
+  Maps: https://maps.google.com/?q=41.588890260674155,-70.98294607191012
+
+Route 86: Dartmouth, Bristol County
+  Latitude: 41.626856
+  Longitude: -70.956103
+  Maps: https://maps.google.com/?q=41.626856454470875,-70.95610345816243
+
+Route 87: Sable Avenue, Dartmouth
+  Latitude: 41.625161
+  Longitude: -70.965955
+  Maps: https://maps.google.com/?q=41.62516092465116,-70.9659553407752
+
+Route 88: 645, Beacon Street
+  Latitude: 42.348564
+  Longitude: -71.097856
+  Maps: https://maps.google.com/?q=42.34856426244344,-71.0978562800905
+
+Route 89: New Bedford, Bristol County
+  Latitude: 41.613829
+  Longitude: -70.932734
+  Maps: https://maps.google.com/?q=41.61382888674033,-70.9327343747698
+
+Route 90: Schooner Drive, Redgate Corner
+  Latitude: 41.612269
+  Longitude: -70.951101
+  Maps: https://maps.google.com/?q=41.61226884578997,-70.95110136376536
+
+Route 91: Bakerville Road, Cranberry Bog Corner
+  Latitude: 41.583860
+  Longitude: -70.978433
+  Maps: https://maps.google.com/?q=41.58385965941011,-70.97843256811798
+
+Route 92: Babbitt Street, New Bedford
+  Latitude: 41.621122
+  Longitude: -70.939146
+  Maps: https://maps.google.com/?q=41.6211219590301,-70.93914638419733
+
+Route 93: Bristol County, Massachusetts
+  Latitude: 41.579901
+  Longitude: -70.978245
+  Maps: https://maps.google.com/?q=41.579900667209905,-70.9782446404824
+
+Route 94: Potter Street, Redgate Corner
+  Latitude: 41.612043
+  Longitude: -70.946048
+  Maps: https://maps.google.com/?q=41.612043120421475,-70.94604781384847
+
+Route 95: Newton Street, South Dartmouth
+  Latitude: 41.597204
+  Longitude: -70.945714
+  Maps: https://maps.google.com/?q=41.597204457049834,-70.94571425469572
+
+Route 96: Milton Street, Apponagansett
+  Latitude: 41.614047
+  Longitude: -70.950900
+  Maps: https://maps.google.com/?q=41.61404692584746,-70.95089980649718
+
+Route 97: 555, Bakerville Road
+  Latitude: 41.592223
+  Longitude: -70.979620
+  Maps: https://maps.google.com/?q=41.592222952034,-70.97962045901639
+
+Route 98: Hawthorn Street, New Bedford
+  Latitude: 41.628523
+  Longitude: -70.946285
+  Maps: https://maps.google.com/?q=41.628522873063176,-70.94628539988081
+
+Route 99: Rebecca Road, Wilburite Corner
+  Latitude: 41.589443
+  Longitude: -70.982405
+  Maps: https://maps.google.com/?q=41.58944348581719,-70.98240453534444
+
+Route 100: Allen Street, Dartmouth
+  Latitude: 41.623413
+  Longitude: -70.956354
+  Maps: https://maps.google.com/?q=41.62341281271981,-70.9563537239156
+
+Route 101: New Bedford, Bristol County
+  Latitude: 41.622383
+  Longitude: -70.950725
+  Maps: https://maps.google.com/?q=41.622383326666665,-70.95072464066668
+
+Route 102: Babbitt Street, New Bedford
+  Latitude: 41.620866
+  Longitude: -70.939503
+  Maps: https://maps.google.com/?q=41.620866078007516,-70.93950282174185
+
+Route 103: Elm Street, Apponagansett
+  Latitude: 41.599533
+  Longitude: -70.959497
+  Maps: https://maps.google.com/?q=41.599533218984455,-70.95949747548113
+
+Route 104: Victoria Street, Dartmouth
+  Latitude: 41.621073
+  Longitude: -70.954619
+  Maps: https://maps.google.com/?q=41.621072883120206,-70.95461899309461
+
+Route 105: 5, Russells Mills Road
+  Latitude: 41.609202
+  Longitude: -70.940567
+  Maps: https://maps.google.com/?q=41.60920216294508,-70.94056687990343
+
+Route 106: Brook Street, Redgate Corner
+  Latitude: 41.608418
+  Longitude: -70.949959
+  Maps: https://maps.google.com/?q=41.608417736073285,-70.94995946348106
+
+Route 107: Walters Way, Dartmouth
+  Latitude: 41.619056
+  Longitude: -70.953104
+  Maps: https://maps.google.com/?q=41.61905565137296,-70.95310390337157
+
+Route 108: Rockdale Avenue, New Bedford
+  Latitude: 41.624859
+  Longitude: -70.946985
+  Maps: https://maps.google.com/?q=41.62485904654197,-70.94698549456285
+
+Route 109: Alpha Street, Dartmouth
+  Latitude: 41.620206
+  Longitude: -70.955474
+  Maps: https://maps.google.com/?q=41.62020557152391,-70.95547383826474
+
+Route 110: Howland Street, Redgate Corner
+  Latitude: 41.599831
+  Longitude: -70.943178
+  Maps: https://maps.google.com/?q=41.599831232178936,-70.94317814790764
+
+Route 111: Bakerville Road, Wilburite Corner
+  Latitude: 41.588632
+  Longitude: -70.979797
+  Maps: https://maps.google.com/?q=41.58863177941176,-70.97979714438503
+
+Route 112: Dartmouth, Bristol County
+  Latitude: 41.613147
+  Longitude: -70.943296
+  Maps: https://maps.google.com/?q=41.613146680472106,-70.94329608669528
+
+Route 113: Bristol County, Massachusetts
+  Latitude: 41.623768
+  Longitude: -70.955607
+  Maps: https://maps.google.com/?q=41.62376822527945,-70.95560723817712
+
+Route 114: Stoneybrook Lane, Apponagansett
+  Latitude: 41.600676
+  Longitude: -70.959362
+  Maps: https://maps.google.com/?q=41.60067571585821,-70.95936214029852
+
+Route 115: Westwood Drive, Dartmouth
+  Latitude: 41.618609
+  Longitude: -70.956070
+  Maps: https://maps.google.com/?q=41.61860890906593,-70.95607011346154
+
+Route 116: Bristol County, Massachusetts
+  Latitude: 41.626211
+  Longitude: -70.955410
+  Maps: https://maps.google.com/?q=41.62621079082986,-70.95540967715044
+
+Route 117: New Bedford, Bristol County
+  Latitude: 41.594461
+  Longitude: -70.906643
+  Maps: https://maps.google.com/?q=41.59446111950791,-70.90664278646749
+
+Route 118: Raymond Street, Redgate Corner
+  Latitude: 41.601625
+  Longitude: -70.953212
+  Maps: https://maps.google.com/?q=41.601625282067644,-70.95321203743885
+
+Route 119: Dartmouth, Bristol County
+  Latitude: 41.620393
+  Longitude: -70.954436
+  Maps: https://maps.google.com/?q=41.6203926893617,-70.95443586411348
+
+Route 120: New Bedford, Bristol County
+  Latitude: 41.607267
+  Longitude: -70.925249
+  Maps: https://maps.google.com/?q=41.60726675763817,-70.92524932269139
+
+Route 121: New Bedford, Bristol County
+  Latitude: 41.629839
+  Longitude: -70.949838
+  Maps: https://maps.google.com/?q=41.629838902317125,-70.94983812857792
+
+Route 122: Spyglass Lane, Apponagansett
+  Latitude: 41.607312
+  Longitude: -70.954567
+  Maps: https://maps.google.com/?q=41.60731186349206,-70.95456678759018
+
+Route 123: Fairhaven, Bristol County
+  Latitude: 41.641420
+  Longitude: -70.903905
+  Maps: https://maps.google.com/?q=41.6414203220339,-70.90390505597162
+
+Route 124: Oaklawn Drive, Dartmouth
+  Latitude: 41.623402
+  Longitude: -70.959465
+  Maps: https://maps.google.com/?q=41.62340191274439,-70.95946463178856
+
+Route 125: Arnold Street, Redgate Corner
+  Latitude: 41.610550
+  Longitude: -70.951050
+  Maps: https://maps.google.com/?q=41.610549911938534,-70.95104952245863
+
+Route 126: Arch Street, Redgate Corner
+  Latitude: 41.602216
+  Longitude: -70.942340
+  Maps: https://maps.google.com/?q=41.602216193320714,-70.94233950766053
+
+Route 127: Carreiro Lane, Apponagansett
+  Latitude: 41.607444
+  Longitude: -70.963514
+  Maps: https://maps.google.com/?q=41.60744380706179,-70.96351352686003
+
+Route 128: Victoria Street, Dartmouth
+  Latitude: 41.622257
+  Longitude: -70.954166
+  Maps: https://maps.google.com/?q=41.622256592900726,-70.95416611591791
+
+Route 129: Fairhaven, Bristol County
+  Latitude: 41.641244
+  Longitude: -70.904669
+  Maps: https://maps.google.com/?q=41.64124431878981,-70.90466867165605
+
+Route 130: New Bedford, Bristol County
+  Latitude: 41.629421
+  Longitude: -70.950028
+  Maps: https://maps.google.com/?q=41.629420721614224,-70.95002758276334
+
+Route 131: West McCabe Street, Dartmouth
+  Latitude: 41.615143
+  Longitude: -70.956134
+  Maps: https://maps.google.com/?q=41.61514321961621,-70.95613391400143
+
+Route 132: New Bedford, Bristol County
+  Latitude: 41.629305
+  Longitude: -70.949986
+  Maps: https://maps.google.com/?q=41.62930465603865,-70.94998579432368
+
+Route 133: Elm Street, Apponagansett
+  Latitude: 41.600441
+  Longitude: -70.960455
+  Maps: https://maps.google.com/?q=41.600441013894326,-70.96045479882584
+
+Route 134: Carroll Street, New Bedford
+  Latitude: 41.626985
+  Longitude: -70.949589
+  Maps: https://maps.google.com/?q=41.626984602346035,-70.94958903695014
+
+Route 135: Dartmouth Street, Redgate Corner
+  Latitude: 41.601872
+  Longitude: -70.940786
+  Maps: https://maps.google.com/?q=41.60187246238078,-70.9407863655952
+
+Route 136: Fairhaven, Bristol County
+  Latitude: 41.640279
+  Longitude: -70.903361
+  Maps: https://maps.google.com/?q=41.640279169957914,-70.90336095823892
+
+Route 137: Brook Street, Redgate Corner
+  Latitude: 41.607156
+  Longitude: -70.948168
+  Maps: https://maps.google.com/?q=41.60715583600409,-70.94816789464711
+
+Route 138: New Bedford, Bristol County
+  Latitude: 41.629449
+  Longitude: -70.950171
+  Maps: https://maps.google.com/?q=41.62944874463584,-70.95017091870656
+
+Route 139: Dartmouth, Bristol County
+  Latitude: 41.602942
+  Longitude: -70.922653
+  Maps: https://maps.google.com/?q=41.60294154232235,-70.92265262067252
+
+Route 140: Faith Street, Bliss Corner
+  Latitude: 41.615854
+  Longitude: -70.940467
+  Maps: https://maps.google.com/?q=41.6158543816568,-70.94046731952663
+
+Route 141: Fairhaven, Bristol County
+  Latitude: 41.641401
+  Longitude: -70.903096
+  Maps: https://maps.google.com/?q=41.641401176923075,-70.90309621230769
+
+Route 142: Plymouth Street, New Bedford
+  Latitude: 41.627347
+  Longitude: -70.949263
+  Maps: https://maps.google.com/?q=41.62734698732251,-70.94926323732253
+
+Route 143: Hawthorn Street, New Bedford
+  Latitude: 41.627966
+  Longitude: -70.948880
+  Maps: https://maps.google.com/?q=41.62796581593406,-70.94887957197803
+
+Route 144: Stowell Street, New Bedford
+  Latitude: 41.621024
+  Longitude: -70.940458
+  Maps: https://maps.google.com/?q=41.62102418791019,-70.94045755924007
+
+Route 145: Dartmouth, Bristol County
+  Latitude: 41.622042
+  Longitude: -70.952908
+  Maps: https://maps.google.com/?q=41.62204187219251,-70.9529077893048
+
+Route 146: Rogers Street, Redgate Corner
+  Latitude: 41.611207
+  Longitude: -70.949154
+  Maps: https://maps.google.com/?q=41.61120656996727,-70.94915359942718
+
+Route 147: Bristol County, Massachusetts
+  Latitude: 41.626493
+  Longitude: -70.956808
+  Maps: https://maps.google.com/?q=41.62649289370571,-70.95680793872448
+
+Route 148: Hawthorn Street, New Bedford
+  Latitude: 41.628038
+  Longitude: -70.948964
+  Maps: https://maps.google.com/?q=41.62803769710983,-70.94896444913294
+
+Route 149: Allen Street, Dartmouth
+  Latitude: 41.621635
+  Longitude: -70.958375
+  Maps: https://maps.google.com/?q=41.62163482101953,-70.95837464158993
+
+Route 150: Dartmouth Street, Redgate Corner
+  Latitude: 41.604532
+  Longitude: -70.941105
+  Maps: https://maps.google.com/?q=41.6045322608137,-70.94110490492506
+
+Route 151: Fairhaven, Bristol County
+  Latitude: 41.641366
+  Longitude: -70.904244
+  Maps: https://maps.google.com/?q=41.64136585299807,-70.90424442117988
+
+Route 152: West Rodney French Boulevard, New Bedford
+  Latitude: 41.607141
+  Longitude: -70.919514
+  Maps: https://maps.google.com/?q=41.607140574414416,-70.91951425765765
+
+Route 153: Rogers Street, Redgate Corner
+  Latitude: 41.608942
+  Longitude: -70.945612
+  Maps: https://maps.google.com/?q=41.6089419841619,-70.94561167399911
+
+Route 154: Dartmouth, Bristol County
+  Latitude: 41.620837
+  Longitude: -70.952972
+  Maps: https://maps.google.com/?q=41.620837166537164,-70.95297192048693
+
+Route 155: William Saltzman Way, New Bedford
+  Latitude: 41.629354
+  Longitude: -70.950585
+  Maps: https://maps.google.com/?q=41.62935398106561,-70.9505852743285
+
+Route 156: Bolton Street, New Bedford
+  Latitude: 41.613252
+  Longitude: -70.933259
+  Maps: https://maps.google.com/?q=41.61325247313297,-70.93325867213115
+
+Route 157: New Bedford, Bristol County
+  Latitude: 41.611766
+  Longitude: -70.923806
+  Maps: https://maps.google.com/?q=41.611765742268034,-70.92380645246277
+
+Route 158: 4, Jersey Street
+  Latitude: 42.347045
+  Longitude: -71.097549
+  Maps: https://maps.google.com/?q=42.34704539717171,-71.09754931878788
+
+Route 159: Leverett Street, Brookline Village
+  Latitude: 42.330204
+  Longitude: -71.122692
+  Maps: https://maps.google.com/?q=42.33020442935568,-71.12269205374169
+
+Route 160: Saint Botolph Street, Fenway
+  Latitude: 42.341970
+  Longitude: -71.084351
+  Maps: https://maps.google.com/?q=42.34196953246013,-71.08435128929385
+
+Route 161: 161, South Huntington Avenue
+  Latitude: 42.327329
+  Longitude: -71.112084
+  Maps: https://maps.google.com/?q=42.32732878950201,-71.11208371682369
+
+Route 162: West Newton Street, Back Bay
+  Latitude: 42.345234
+  Longitude: -71.081634
+  Maps: https://maps.google.com/?q=42.34523445563549,-71.08163384892086
+
+Route 163: Berwick Road, Attleboro
+  Latitude: 41.946542
+  Longitude: -71.296629
+  Maps: https://maps.google.com/?q=41.946541962877035,-71.29662942923433
+
+Route 164: Attleboro, Bristol County
+  Latitude: 41.942575
+  Longitude: -71.298616
+  Maps: https://maps.google.com/?q=41.942574744107745,-71.29861574410775
+
+Route 165: Longwood Medical and Academic Area, Boston
+  Latitude: 42.341664
+  Longitude: -71.108114
+  Maps: https://maps.google.com/?q=42.341664024558376,-71.10811372856529
+
+Route 166: Fenway, Boston
+  Latitude: 42.341650
+  Longitude: -71.099603
+  Maps: https://maps.google.com/?q=42.34164993199714,-71.09960252779766
+
+Route 167: 75, Brookline Avenue
+  Latitude: 42.347895
+  Longitude: -71.098348
+  Maps: https://maps.google.com/?q=42.34789495452457,-71.09834770188333
+
+Route 168: Leverett Street, Brookline Village
+  Latitude: 42.330109
+  Longitude: -71.123075
+  Maps: https://maps.google.com/?q=42.33010894047329,-71.12307480117101
+
+Route 169: Longwood Medical and Academic Area, Boston
+  Latitude: 42.342133
+  Longitude: -71.104924
+  Maps: https://maps.google.com/?q=42.34213281402805,-71.1049237006012
+
+Route 170: Rawson Road, Aspinwall Hill
+  Latitude: 42.335970
+  Longitude: -71.130918
+  Maps: https://maps.google.com/?q=42.33596969150236,-71.130918464313
+
+Route 171: 101, Belvidere Street
+  Latitude: 42.345830
+  Longitude: -71.083281
+  Maps: https://maps.google.com/?q=42.345829899825404,-71.083281255347
+
+Route 172: Jamaicaway Bikepath, Jamaica Plain
+  Latitude: 42.327230
+  Longitude: -71.113910
+  Maps: https://maps.google.com/?q=42.3272299647608,-71.1139104597433
+
+Route 173: North Brookline, Brookline
+  Latitude: 42.336846
+  Longitude: -71.121140
+  Maps: https://maps.google.com/?q=42.33684580039331,-71.12114041445427
+
+Route 174: Walnut Park, Roxbury
+  Latitude: 42.315366
+  Longitude: -71.096088
+  Maps: https://maps.google.com/?q=42.315366372437595,-71.0960876348691
+
+Route 175: West Rutland Square, South End
+  Latitude: 42.343122
+  Longitude: -71.080019
+  Maps: https://maps.google.com/?q=42.34312245940959,-71.08001938708487
+
+Route 176: Carlton Street, North Brookline
+  Latitude: 42.343770
+  Longitude: -71.107722
+  Maps: https://maps.google.com/?q=42.34376956375358,-71.10772240866763
+
+Route 177: Wenham, Essex County
+  Latitude: 42.590680
+  Longitude: -70.814663
+  Maps: https://maps.google.com/?q=42.590680172651936,-70.8146632596685
+
+Route 178: Wenham, Essex County
+  Latitude: 42.590777
+  Longitude: -70.815262
+  Maps: https://maps.google.com/?q=42.59077714668771,-70.81526213091483
+
+Route 179: Gardner Road, Aspinwall Hill
+  Latitude: 42.336624
+  Longitude: -71.127592
+  Maps: https://maps.google.com/?q=42.33662431118472,-71.12759197895556
+
+Route 180: Milton Road, Brookline
+  Latitude: 42.329397
+  Longitude: -71.126441
+  Maps: https://maps.google.com/?q=42.32939685834147,-71.12644120195122
+
+Route 181: Fenway, Boston
+  Latitude: 42.350316
+  Longitude: -71.094113
+  Maps: https://maps.google.com/?q=42.35031566342413,-71.09411280211229
+
+Route 182: West Newton Street, Back Bay
+  Latitude: 42.344512
+  Longitude: -71.080312
+  Maps: https://maps.google.com/?q=42.34451197191697,-71.08031198249898
+
+Route 183: Aspinwall Hill, North Brookline
+  Latitude: 42.335859
+  Longitude: -71.134013
+  Maps: https://maps.google.com/?q=42.33585886151604,-71.13401318476676
+
+Route 184: Fenway, Boston
+  Latitude: 42.351646
+  Longitude: -71.093897
+  Maps: https://maps.google.com/?q=42.35164580043183,-71.09389685872918
+
+Route 185: East Milton Road, Brookline
+  Latitude: 42.329552
+  Longitude: -71.125478
+  Maps: https://maps.google.com/?q=42.329552168976306,-71.1254778540456
+
+Route 186: Beacon Street, Fenway
+  Latitude: 42.350861
+  Longitude: -71.092358
+  Maps: https://maps.google.com/?q=42.350860506330996,-71.09235819276032
+
+Route 187: Harvard Avenue, North Brookline
+  Latitude: 42.336040
+  Longitude: -71.123838
+  Maps: https://maps.google.com/?q=42.33604022354999,-71.1238378542699
+
+Route 188: Westminster Avenue, Roxbury
+  Latitude: 42.316823
+  Longitude: -71.096304
+  Maps: https://maps.google.com/?q=42.31682310418562,-71.09630360782529
+
+Route 189: Mountfort Street, Audubon Circle
+  Latitude: 42.348459
+  Longitude: -71.106429
+  Maps: https://maps.google.com/?q=42.34845899728906,-71.10642933717384
+
+Route 190: Colbourne Crescent, Aspinwall Hill
+  Latitude: 42.335094
+  Longitude: -71.133688
+  Maps: https://maps.google.com/?q=42.335094217666125,-71.13368779238249
+
+Route 191: Longwood Medical and Academic Area, Boston
+  Latitude: 42.342136
+  Longitude: -71.104680
+  Maps: https://maps.google.com/?q=42.34213559073192,-71.10467959462972
+
+Route 192: Boylston Street, Brookline Village
+  Latitude: 42.329647
+  Longitude: -71.125084
+  Maps: https://maps.google.com/?q=42.329646732027655,-71.12508431105991
+
+Route 193: Paul Gore Street, Jamaica Plain
+  Latitude: 42.319711
+  Longitude: -71.109246
+  Maps: https://maps.google.com/?q=42.31971078721118,-71.10924572944654
+
+Route 194: Back Bay, Boston
+  Latitude: 42.345321
+  Longitude: -71.083714
+  Maps: https://maps.google.com/?q=42.34532056661316,-71.08371420626003
+
+Route 195: Massachusetts Turnpike, Back Bay
+  Latitude: 42.347472
+  Longitude: -71.080639
+  Maps: https://maps.google.com/?q=42.347471959241325,-71.08063898385795
+
+Route 196: Keene, Cheshire County
+  Latitude: 42.916464
+  Longitude: -72.283656
+  Maps: https://maps.google.com/?q=42.916464406609194,-72.2836558204023
+
+Route 197: 438;440, Centre Street
+  Latitude: 42.319634
+  Longitude: -71.111148
+  Maps: https://maps.google.com/?q=42.319633828898134,-71.11114839667358
+
+Route 198: Milton Road, Brookline
+  Latitude: 42.329364
+  Longitude: -71.126892
+  Maps: https://maps.google.com/?q=42.329363666479395,-71.126891864794
+
+Route 199: Fenway, Boston
+  Latitude: 42.351458
+  Longitude: -71.091627
+  Maps: https://maps.google.com/?q=42.35145754344624,-71.09162716494845
+
+Route 200: Walnut Park, Roxbury
+  Latitude: 42.314793
+  Longitude: -71.095813
+  Maps: https://maps.google.com/?q=42.31479311800391,-71.09581333444227
+
+Route 201: Longwood Medical and Academic Area, Boston
+  Latitude: 42.339375
+  Longitude: -71.109734
+  Maps: https://maps.google.com/?q=42.33937466161616,-71.10973400699301
+
+Route 202: Addington Road, Aspinwall Hill
+  Latitude: 42.335823
+  Longitude: -71.133280
+  Maps: https://maps.google.com/?q=42.335823273399015,-71.1332804669247
+
+Route 203: Yale Avenue Historic District, Wakefield
+  Latitude: 42.509542
+  Longitude: -71.077567
+  Maps: https://maps.google.com/?q=42.50954194027361,-71.07756748915583
+
+Route 204: East Milton Road, Brookline
+  Latitude: 42.329596
+  Longitude: -71.125440
+  Maps: https://maps.google.com/?q=42.329595621903216,-71.12543952234313
+
+Route 205: Back Bay, Boston
+  Latitude: 42.344973
+  Longitude: -71.083832
+  Maps: https://maps.google.com/?q=42.34497329758494,-71.08383175317233
+
+Route 206: Brookline, Norfolk County
+  Latitude: 42.328449
+  Longitude: -71.113767
+  Maps: https://maps.google.com/?q=42.32844861789639,-71.11376714850864
+
+Route 207: 100, Huntington Avenue
+  Latitude: 42.347704
+  Longitude: -71.076433
+  Maps: https://maps.google.com/?q=42.347704203606554,-71.07643283409837
+
+Route 208: Longwood Medical and Academic Area, Boston
+  Latitude: 42.340715
+  Longitude: -71.107129
+  Maps: https://maps.google.com/?q=42.34071504896907,-71.10712859587628
+
+Route 209: Keddy Street, Springfield
+  Latitude: 42.108775
+  Longitude: -72.512974
+  Maps: https://maps.google.com/?q=42.10877493002258,-72.51297358013544
+
+Route 210: Rawson Road, Aspinwall Hill
+  Latitude: 42.335142
+  Longitude: -71.135652
+  Maps: https://maps.google.com/?q=42.335142214833304,-71.13565244125513
+
+Route 211: Boylston Street, Brookline Village
+  Latitude: 42.329965
+  Longitude: -71.123752
+  Maps: https://maps.google.com/?q=42.32996453180297,-71.12375242228599
+
+Route 212: New East Side, Loop
+  Latitude: 41.886732
+  Longitude: -87.620930
+  Maps: https://maps.google.com/?q=41.886731703043345,-87.62092984537351
+
+Route 213: Loop, Chicago
+  Latitude: 41.879831
+  Longitude: -87.617285
+  Maps: https://maps.google.com/?q=41.87983139685792,-87.61728506625683
+
+Route 214: Westminster Avenue, Roxbury
+  Latitude: 42.316557
+  Longitude: -71.096136
+  Maps: https://maps.google.com/?q=42.31655749361207,-71.09613567456447
+
+Route 215: North Brookline, Brookline
+  Latitude: 42.335671
+  Longitude: -71.123114
+  Maps: https://maps.google.com/?q=42.335670872251306,-71.12311389790577
+
+Route 216: Massachusetts Turnpike, Back Bay
+  Latitude: 42.346625
+  Longitude: -71.081855
+  Maps: https://maps.google.com/?q=42.34662464,-71.08185462653465
+
+Route 217: Paul Gore Street, Jamaica Plain
+  Latitude: 42.320201
+  Longitude: -71.109175
+  Maps: https://maps.google.com/?q=42.320201460437715,-71.10917464085297
+
+Route 218: 102, Belvidere Street
+  Latitude: 42.345819
+  Longitude: -71.082388
+  Maps: https://maps.google.com/?q=42.34581920843776,-71.08238804302422
+
+Route 219: Fenway, Boston
+  Latitude: 42.351144
+  Longitude: -71.092234
+  Maps: https://maps.google.com/?q=42.351143923255044,-71.09223351637446
+
+Route 220: Longwood Medical and Academic Area, Boston
+  Latitude: 42.336984
+  Longitude: -71.101787
+  Maps: https://maps.google.com/?q=42.33698395289704,-71.1017873739058
+
+Route 221: Contoocook, Hopkinton
+  Latitude: 43.234895
+  Longitude: -71.725965
+  Maps: https://maps.google.com/?q=43.23489492339833,-71.72596544846797
+
+Route 222: Harvard Avenue, North Brookline
+  Latitude: 42.336001
+  Longitude: -71.122608
+  Maps: https://maps.google.com/?q=42.336001471567265,-71.12260770873786
+
+Route 223: Huntington Avenue, Back Bay
+  Latitude: 42.347002
+  Longitude: -71.080886
+  Maps: https://maps.google.com/?q=42.34700156238566,-71.08088569447493
+
+Route 224: Fenway, Boston
+  Latitude: 42.352000
+  Longitude: -71.108309
+  Maps: https://maps.google.com/?q=42.35199955704489,-71.10830863466333
+
+Route 225: Jamaica Plain, Boston
+  Latitude: 42.328250
+  Longitude: -71.113615
+  Maps: https://maps.google.com/?q=42.32825040942408,-71.11361500174519
+
+Route 226: Beacon Street, Fenway
+  Latitude: 42.351306
+  Longitude: -71.106192
+  Maps: https://maps.google.com/?q=42.351305808908045,-71.10619202327585
+
+Route 227: Bakerville Road, Wilburite Corner
+  Latitude: 41.589680
+  Longitude: -70.978497
+  Maps: https://maps.google.com/?q=41.589679984825494,-70.97849651836115
+
+Route 228: Victoria Street, Dartmouth
+  Latitude: 41.621378
+  Longitude: -70.954381
+  Maps: https://maps.google.com/?q=41.62137796037296,-70.95438101984884
+
+Route 229: Holland Street, Dartmouth
+  Latitude: 41.614052
+  Longitude: -70.950690
+  Maps: https://maps.google.com/?q=41.61405173583602,-70.95069045278673
+
+Route 230: Mission Hill, Boston
+  Latitude: 42.333166
+  Longitude: -71.094615
+  Maps: https://maps.google.com/?q=42.33316625492468,-71.09461512977985
+
+Route 231: North Brookline, Brookline
+  Latitude: 42.335975
+  Longitude: -71.122096
+  Maps: https://maps.google.com/?q=42.335974722444625,-71.1220961830798
+
+Route 232: Huntington Avenue, Back Bay
+  Latitude: 42.346322
+  Longitude: -71.082589
+  Maps: https://maps.google.com/?q=42.346322017787266,-71.08258947883316
+
+Route 233: Life Street, Boston Landing
+  Latitude: 42.356068
+  Longitude: -71.145854
+  Maps: https://maps.google.com/?q=42.35606830338542,-71.14585382682291
+
+Route 234: Rogers Street, Redgate Corner
+  Latitude: 41.611650
+  Longitude: -70.949935
+  Maps: https://maps.google.com/?q=41.61165004699739,-70.94993451592688
+
+Route 235: Tremont Street, Redgate Corner
+  Latitude: 41.600751
+  Longitude: -70.942392
+  Maps: https://maps.google.com/?q=41.60075067191977,-70.94239214505733
+
+Route 236: Russells Mills Road, Redgate Corner
+  Latitude: 41.604110
+  Longitude: -70.945551
+  Maps: https://maps.google.com/?q=41.6041095317623,-70.9455512510246
+
+Route 237: Farm Street, New Bedford
+  Latitude: 41.625362
+  Longitude: -70.947812
+  Maps: https://maps.google.com/?q=41.625362301242234,-70.94781230745342
+
+Route 238: New Bedford, Bristol County
+  Latitude: 41.631809
+  Longitude: -70.951763
+  Maps: https://maps.google.com/?q=41.63180916195256,-70.95176295346715
+
+Route 239: New Bedford, Bristol County
+  Latitude: 41.630160
+  Longitude: -70.950207
+  Maps: https://maps.google.com/?q=41.63015954241645,-70.95020707369325
+
+Route 240: Elm Street, Apponagansett
+  Latitude: 41.600754
+  Longitude: -70.960237
+  Maps: https://maps.google.com/?q=41.60075355921831,-70.96023650217136
+
+Route 241: Osborne Street, New Bedford
+  Latitude: 41.612178
+  Longitude: -70.932551
+  Maps: https://maps.google.com/?q=41.61217812241191,-70.93255117508173
+
+Route 242: Stackhouse Street, Bliss Corner
+  Latitude: 41.614140
+  Longitude: -70.940093
+  Maps: https://maps.google.com/?q=41.61414043959731,-70.94009317449664
+
+Route 243: Bakerville Road, Wilburite Corner
+  Latitude: 41.589715
+  Longitude: -70.978391
+  Maps: https://maps.google.com/?q=41.58971519685039,-70.97839087401576
+
+Route 244: Bakerville Road, Cranberry Bog Corner
+  Latitude: 41.580476
+  Longitude: -70.976803
+  Maps: https://maps.google.com/?q=41.58047597509274,-70.9768034372019
+
+Route 245: Farmers Circle, Dartmouth
+  Latitude: 41.603517
+  Longitude: -70.978666
+  Maps: https://maps.google.com/?q=41.60351683919426,-70.9786656015705
+
+Route 246: Simmons Way, Dartmouth
+  Latitude: 41.586767
+  Longitude: -70.976689
+  Maps: https://maps.google.com/?q=41.586766912045896,-70.97668945219885
+
+Route 247: Russells Mills Road, Macomber Corner
+  Latitude: 41.599379
+  Longitude: -70.971799
+  Maps: https://maps.google.com/?q=41.59937862781955,-70.9717991849624
+
+Route 248: Gulf Road West, Wilburite Corner
+  Latitude: 41.585253
+  Longitude: -70.978577
+  Maps: https://maps.google.com/?q=41.58525282224335,-70.97857688212929
+
+Route 249: Vineyard Lane, Dartmouth
+  Latitude: 41.584774
+  Longitude: -70.972609
+  Maps: https://maps.google.com/?q=41.584773679171334,-70.97260905823069
+
+Route 250: Russells Mills Road, Macomber Corner
+  Latitude: 41.599713
+  Longitude: -70.964574
+  Maps: https://maps.google.com/?q=41.59971330059746,-70.96457359895444
+

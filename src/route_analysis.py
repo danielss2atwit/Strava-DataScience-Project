@@ -3,10 +3,16 @@ import pandas as pd
 def compute_route_stats(df_clean):
     """
     Group by RouteID and compute statistics.
-    IMPORTANT: Column names must match what's in df_clean!
+    Converts Average Speed (m/s) to pace (min/mile).
     """
-    route_stats = df_clean.groupby("RouteID").agg({
-        "Average Speed": ["mean", "median", "std"],
+    # Convert Average Speed from m/s to pace (min/mile)
+    # 1 m/s = 2.237 mph
+    # pace (min/mile) = 60 / speed (mph)
+    df_clean_copy = df_clean.copy()
+    df_clean_copy["Pace_min_per_mile"] = (60 / (df_clean_copy["Average Speed"] * 2.237)).round(2)
+    
+    route_stats = df_clean_copy.groupby("RouteID").agg({
+        "Pace_min_per_mile": ["mean", "median", "std"],
         "Average Grade Adjusted Pace": "mean",
         "Elevation Gain": "mean",
         "Relative Effort": "mean",

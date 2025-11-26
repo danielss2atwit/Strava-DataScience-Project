@@ -74,6 +74,50 @@ if n_noise / len(labels) > 0.5:
 route_map = dict(zip(ids, labels))
 
 # --------------------------------------------------------
+# 2.5 Calculate route centroids and get location names
+# --------------------------------------------------------
+from src.load_gps import get_route_centroids, get_location_name
+
+route_centroids = get_route_centroids(gps_raw, ids, labels)
+
+print("\n" + "=" * 70)
+print("ROUTE CLUSTERS - GENERAL LOCATIONS")
+print("=" * 70)
+
+route_locations = {}  # Store for labeling plots later
+location_list = []  # For saving to file
+
+for cluster_id in sorted(route_centroids.keys()):
+    lat, lon = route_centroids[cluster_id]
+    location_name = get_location_name(lat, lon)
+    route_locations[cluster_id] = location_name
+    
+    output_line = f"Route {cluster_id:3d} → {location_name} ({lat:.4f}, {lon:.4f})"
+    print(output_line)
+    print(f"           📍 https://maps.google.com/?q={lat},{lon}\n")
+    location_list.append(output_line)
+
+# Save to file
+with open("data/route_locations.txt", "w", encoding="utf-8") as f:
+    f.write("=" * 70 + "\n")
+    f.write("ROUTE CLUSTERS - GENERAL LOCATIONS\n")
+    f.write("=" * 70 + "\n\n")
+    for line in location_list:
+        f.write(line + "\n")
+    f.write("\n" + "=" * 70 + "\n")
+    f.write("CLUSTER IDS AND COORDINATES\n")
+    f.write("=" * 70 + "\n\n")
+    for cluster_id in sorted(route_centroids.keys()):
+        lat, lon = route_centroids[cluster_id]
+        location_name = route_locations[cluster_id]
+        f.write(f"Route {cluster_id}: {location_name}\n")
+        f.write(f"  Latitude: {lat:.6f}\n")
+        f.write(f"  Longitude: {lon:.6f}\n")
+        f.write(f"  Maps: https://maps.google.com/?q={lat},{lon}\n\n")
+
+print("\n✅ Route locations saved to: data/route_locations.txt")
+
+# --------------------------------------------------------
 # 3. Merge GPS cluster IDs into df_clean
 # --------------------------------------------------------
 # DEBUG: Check what filenames look like
